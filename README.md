@@ -1,5 +1,4 @@
 # CodeAlpha_Iris-Flower-Classification
-#  Iris Flower Classification - Data Science Project
 
 This beginner-friendly machine learning project classifies Iris flowers into **Setosa**, **Versicolor**, or **Virginica** based on flower measurements. The project demonstrates basic classification techniques using Python and Scikit-learn.
 
